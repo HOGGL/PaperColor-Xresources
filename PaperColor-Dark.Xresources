@@ -1,0 +1,27 @@
+! PaperColor Theme
+*.foreground: #D0D0D0
+*.background: #1C1C1C
+! black
+*.color0: #1C1C1C
+*.color8: #808080
+! red
+*.color1: #AF87AF
+*.color9: #AF87AF
+! green
+*.color2: #AFDF00
+*.color10: #AFDF00
+! yellow / orange
+*.color3: #DFAF5F
+*.color11: #DFAF5F
+! blue
+*.color4: #5FAFDF
+*.color12: #5FAFDF
+! magenta
+*.color5: #FF5FAF
+*.color13: #FF5FAF
+! cyan
+*.color6: #00AFAF
+*.color14: #00AFAF
+! white
+*.color7: #F5F5F5
+*.color15: #2D2D2C
